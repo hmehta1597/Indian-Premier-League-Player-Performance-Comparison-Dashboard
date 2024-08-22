@@ -2,7 +2,7 @@
 
 This Power BI dashboard offers a comprehensive analysis of player performances in the Indian Premier League (IPL). The dashboard focuses on comparing key metrics across different teams and players, providing insights into total runs, strike rates, batting averages, and player salaries.
 
-This project was collaboratively developed with [Bhakti Chotalia](https://github.com/bhaktichotalia10), a Master’s student pursuing MSBA at the Northeastern University (NEU).
+This project was collaboratively developed with [Bhakti Chotalia](https://github.com/bhaktirchotalia10), a Master’s student pursuing MSBA at the Northeastern University (NEU).
 
 Key Features:
 
